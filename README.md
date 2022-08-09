@@ -11,5 +11,8 @@ InfoTarn is my new under development App. It is made to search Wikipedia and oth
 • This will be a very light program that has less code.<br>
 • This will give developers more open and experimental space and make debugging easier.<br>
 
-
+**Contact Me** 
+ **Email: **valetrix.mail@gmail.com
+ **Instagram: **valetrix.insta
+ **Discord: **Valetrix#8488
 
