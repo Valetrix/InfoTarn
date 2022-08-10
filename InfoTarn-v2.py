@@ -45,9 +45,6 @@ e1.grid(row=0, column=0, padx=10, pady=10)
 l1 = customtkinter.CTkLabel(lf1, text="INFOLINK-VPL", text_font=('Transformers Movie', 18))
 l1.grid(row=0, column=1, padx=2)
 
-# Adding Option Menu for Theme Selection
-om1 = customtkinter.CTkOptionMenu(master=self.frame_left,values=["Light", "Dark", "System"],command=self.change_appearance_mode)
-
 # Creating Frame for Output
 lf2 = customtkinter.CTkFrame(root, border_width=1, border_color='blue', corner_radius=20, width=500, height=40)
 lf2.pack(pady=10)
