@@ -17,3 +17,7 @@ InfoTarn is my new under development App. It is made to search Wikipedia and oth
 • **Instagram:** valetrix.insta<br>
 • **Discord:** Valetrix#8488<br>
 
+# **Latest Version: v4.0**
+
+![image_2022-08-10_153713801]
+
