@@ -19,5 +19,6 @@ InfoTarn is my new under development App. It is made to search Wikipedia and oth
 
 # **Latest Version: v4.0**
 
-![image_2022-08-10_153713801]
+![image](https://user-images.githubusercontent.com/82807201/183875974-67fef4dd-a957-4793-8c4d-c99db4a53310.png)
+
 
